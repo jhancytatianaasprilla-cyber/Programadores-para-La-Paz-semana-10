@@ -1,0 +1,14 @@
+ITERACICN 1
+
+B?QuC) 2 tareas del backlog harC-as primero?
+1. Registrar una incidencia con foto
+2. Enviar alerta a Telegram al coordinador
+
+B?Por quC) son las mC!s importantes?
+Porque son la base del flujo. Primero necesitamos que el ciudadano pueda reportar y segundo que el equipo se entere de inmediato para actuar.
+
+DefiniciC3n de "Terminado":
+1. La funcionalidad funciona correctamente
+2. Fue probada con al menos 2 casos de uso
+3. QuedC3 registrada en Git y documentada
+
